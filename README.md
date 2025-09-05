@@ -47,6 +47,4 @@ This project demonstrates **Sentiment Analysis** on the **IMDB Movie Reviews Dat
 - **Languages:** Python  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn, nltk, spacy, keras/tensorflow, pytorch, transformers  
 
----
 
-## 📂 Repository Structure
